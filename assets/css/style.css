@@ -2975,6 +2975,22 @@ p.copyright {
   opacity: .9;
 }
 
+
+.navbar-header{
+  width: 100%;
+}
+
+
+.navbar-brand{
+  width: 100%;
+}
+
+.navbar-brand img{
+  max-width: 130px;
+  margin-left: 50%;
+}
+
+
 /***********************************************************************************************/
 /* Responsive Part */
 /***********************************************************************************************/
@@ -3185,24 +3201,15 @@ p.copyright {
     width: 100%!important;
   }
 
+  .navbar-brand img{
+    margin-left: 0;
+  }
 }
 
 @media screen and (max-width: 480px) {
   .back-to-top {
     visibility: hidden;
   }
+
 }
 
-.navbar-header{
-  width: 100%;
-}
-
-
-.navbar-brand{
-  width: 100%;
-}
-
-.navbar-brand img{
-  max-width: 130px;
-  margin-left: 50%;
-}
