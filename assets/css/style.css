@@ -1772,6 +1772,8 @@ ul.details-list li:last-child {
 .landing-hero {
   background: url('../images/hero-bg/landing.jpg');
   background-size: cover;
+  background-position:34%;
+   background-repeat: no-repeat;
 }
 
 /*--------------------
@@ -2987,9 +2989,20 @@ p.copyright {
 
 .navbar-brand img{
   max-width: 130px;
-  margin-left: 50%;
+  margin-left: 48%;
+  background-position: center;
 }
 
+
+.black-btn {
+  margin: 15px 0;
+}
+.black-btn .btn-clean{
+    border-color: #222;
+    color: #222;
+    text-transform: uppercase;
+    letter-spacing: 0;
+}
 
 /***********************************************************************************************/
 /* Responsive Part */
