@@ -3226,3 +3226,24 @@ p.copyright {
 
 }
 
+
+#my-store-105905517{
+      margin-top: 100px !important;
+}
+
+
+.buyitnow a{
+    background: #444 !important;
+    color: #fff !important;
+    font-weight: bolder !important;
+    padding: 10px !important;
+}
+
+
+.buyitnow a:hover{
+    background: #444 !important;
+    color: #fff !important;
+    font-weight: bolder !important;
+    padding: 10px !important;
+}
+
